@@ -1,0 +1,1 @@
+export { customerRouterOtp } from './customerotpRoute';

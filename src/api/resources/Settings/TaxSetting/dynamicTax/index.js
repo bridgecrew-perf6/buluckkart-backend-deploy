@@ -1,0 +1,1 @@
+export { dynamicTexRoute } from './dynamicRoute';

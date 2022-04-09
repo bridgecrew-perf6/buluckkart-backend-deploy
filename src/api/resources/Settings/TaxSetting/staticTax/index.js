@@ -1,0 +1,1 @@
+export { staticTaxRouter } from './staticTaxRoute';
